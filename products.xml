@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="product.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<products>
+  <product id="A123">
+    <name> NIKE SHOES </name>
+    <price> 2500 </price>
+    <quantity> 3100 </quantity>
+    <category> FOOTWEAR </category>
+  </product>
+  <product id="A456">
+    <name> ALLEN SOLLEY </name>
+    <price> 1800 </price>
+    <quantity> 2000 </quantity>
+    <category> FASHION </category>
+  </product>
+  <product id="A789">
+    <name> ACER LAPTOP </name>
+    <price> 150000 </price>
+    <quantity> 50 </quantity>
+    <category> ELECTRONICS </category>
+  </product>
+</products>
