@@ -2,21 +2,21 @@
 <?xml-model href="product.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <products>
   <product id="A123">
-    <name> NIKE SHOES </name>
-    <price> 2500 </price>
-    <quantity> 3100 </quantity>
-    <category> FOOTWEAR </category>
+    <name>PHONES</name>
+    <price>200</price>
+    <quantity>900</quantity>
+    <category>Electronics</category>
   </product>
   <product id="A456">
-    <name> ALLEN SOLLEY </name>
-    <price> 1800 </price>
-    <quantity> 2000 </quantity>
-    <category> FASHION </category>
+    <name>ALLEN SOLLEY</name>
+    <price>250</price>
+    <quantity>200</quantity>
+    <category>Clothing</category>
   </product>
   <product id="A789">
-    <name> ACER LAPTOP </name>
-    <price> 150000 </price>
-    <quantity> 50 </quantity>
-    <category> ELECTRONICS </category>
+    <name>C PROGRAMMING</name>
+    <price>150</price>
+    <quantity>50</quantity>
+    <category>Books</category>
   </product>
 </products>
